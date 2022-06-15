@@ -1,0 +1,25 @@
+#title {
+    font-size: 34px;
+    text-align: center;
+    color: #66B6FF;
+}
+
+.sub-title {
+    font-size: 18px;
+    text-align: center;
+}
+
+#a-tag {
+    text-align:end;
+}
+
+#box {
+    border: 6px inset #949599;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    border-radius: 50%;
+    text-align: center;
+    
+}
